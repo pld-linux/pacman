@@ -24,7 +24,8 @@ Zarz±dca pakietów PLD.
 
 %build
 cp /usr/share/automake/config.sub admin/
-%configure
+%configure \
+	--with-qt-libraries=%{_libdir}
 %{__make}
 
 %install
