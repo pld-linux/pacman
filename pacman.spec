@@ -2,11 +2,11 @@ Summary:	PLD Package Manager
 Summary(pl):	Zarz±dca pakietów PLD
 Name:		pacman
 Version:	0.1
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications
 Source0:	http://team.pld-linux.org/~wolf/pacman/%{name}-%{version}.tar.bz2
-# Source0-md5:	c83fd7ffdffd35c4ca9a14d0abcdd301
+# Source0-md5:	9439f1f7eca242e74c9a80322cdb38d7
 URL:		http://team.pld-linux.org/~wolf/pacman/
 BuildRequires:	kdelibs-devel
 BuildRequires:	libpi-devel
