@@ -10,8 +10,6 @@ Source0:	http://team.pld-linux.org/~wolf/pacman/%{name}-%{version}.tar.bz2
 URL:		http://team.pld-linux.org/~wolf/pacman/
 BuildRequires:	automake
 BuildRequires:	kdelibs-devel
-BuildRequires:	boost-filesystem-devel
-BuildRequires:	boost-regex-devel
 BuildRequires:	libpi-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
