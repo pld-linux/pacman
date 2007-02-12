@@ -1,5 +1,5 @@
 Summary:	PLD Package Manager
-Summary(pl):	Zarz±dca pakietów PLD
+Summary(pl.UTF-8):   ZarzÄ…dca pakietÃ³w PLD
 Name:		pacman
 Version:	0.1
 Release:	4
@@ -18,8 +18,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 PLD Package Manager.
 
-%description -l pl
-Zarz±dca pakietów PLD.
+%description -l pl.UTF-8
+ZarzÄ…dca pakietÃ³w PLD.
 
 %prep
 %setup -q
