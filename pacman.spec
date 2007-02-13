@@ -1,5 +1,5 @@
 Summary:	PLD Package Manager
-Summary(pl.UTF-8):   Zarządca pakietów PLD
+Summary(pl.UTF-8):	Zarządca pakietów PLD
 Name:		pacman
 Version:	0.1
 Release:	4
